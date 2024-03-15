@@ -1,3 +1,3 @@
-# DataGenAccelerator-NO-KrylovRecycling
+# NO-DataGen-SKR
 Relevant code of the paper "Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling"
 To be completed soon 
